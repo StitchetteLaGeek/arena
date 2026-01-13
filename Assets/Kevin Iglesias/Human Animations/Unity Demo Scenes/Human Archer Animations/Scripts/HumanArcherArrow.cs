@@ -12,8 +12,8 @@ namespace KevinIglesias
 {
     public class HumanArcherArrow : MonoBehaviour
     {
-        private float arrowSpeed = 30f;
-        private float arrowLifetime = 2f;
+        private float arrowSpeed = 23f;
+        private float arrowLifetime = 4f;
         
         void OnEnable()
         {
